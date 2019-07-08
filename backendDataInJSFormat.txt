@@ -1,0 +1,31 @@
+dashboardoptions: [{id: 1, name: "Business", 
+ 
+		  sections: [ 
+ 		  {id: 1, section_name: "Home"},
+ 		  {id: 2, section_name: "Revnue"},
+ 		  {id: 3, section_name: "Marketing & Business Development"},
+ 		  {id: 4, section_name: "Customer & Products"}]
+		  },
+
+		  {id: 2, name: "Manufacturing", 
+ 
+		  sections: [ 
+ 		  {id: 5, section_name: "Home"},
+ 		  {id: 6, section_name: "Plants & Lines"},
+ 		  {id: 7, section_name: "Test & QA"},
+ 		  {id: 8, section_name: "Maintenance"}]
+		  }]
+
+
+
+suggestions: [
+                { id: 'USA', text: 'USA' },
+                { id: 'Germany', text: 'Germany' },
+                { id: 'Austria', text: 'Austria' },
+                { id: 'Costa Rica', text: 'Costa Rica' },
+                { id: 'Sri Lanka', text: 'Sri Lanka' },
+                { id: 'Thailand', text: 'Thailand' }
+             ]
+
+
+ 
